@@ -32,7 +32,7 @@ I'm deeply fascinated by the intersection of AI and real-world applications. My 
 - 📚 Passionate about Tutoring and Public Speaking
 
 ## Let's Connect!
-- 📄 [Resume](your-resume-link)
+- 📄 [Resume](https://drive.google.com/file/d/1SCVdlhzP9dBMNA-oBJ6U0pgpj8GxyTzS/view?usp=sharing)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ashishsingh1501/)
 - 📧 Email: ashishsingh1501@gmail.com
 
