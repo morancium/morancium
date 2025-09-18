@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Ashish Singh
 
 🎓 Chemical Engineering graduate from IIT Roorkee with a passion for AI/ML and Computer Vision  
-💼 Currently working as a Data Science Analyst at Accordion, Hyderabad  
+💼 Currently working as an AI Product Associate at REAX  
 🌱 Always learning and exploring new technologies in AI/ML space
 
 ## About Me
